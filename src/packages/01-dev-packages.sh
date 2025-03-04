@@ -21,6 +21,7 @@ DEV_PACKAGES=(
   github2spec
   mkimage
   mkimage-preinstall
+  foldy
 )
 
 apt-get install -y \
